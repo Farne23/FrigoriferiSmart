@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "q+F5JBQK/iqcduH40PpMDJLRwF0ONU5TbESP85n/uwfLa5oV5Dkqt808yrlV/6Gpf/zqbkShglGXaRKV/ThiDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Standard\\Desktop\\FrigoriferiSmart\\FrigoriferiSmart\\FrigoriferiSmart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Standard\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Standard\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

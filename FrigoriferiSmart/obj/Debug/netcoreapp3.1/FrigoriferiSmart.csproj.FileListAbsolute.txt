@@ -1,0 +1,13 @@
+C:\Users\Standard\Desktop\FrigoriferiSmart\FrigoriferiSmart\bin\Debug\netcoreapp3.1\FrigoriferiSmart.exe
+C:\Users\Standard\Desktop\FrigoriferiSmart\FrigoriferiSmart\bin\Debug\netcoreapp3.1\FrigoriferiSmart.deps.json
+C:\Users\Standard\Desktop\FrigoriferiSmart\FrigoriferiSmart\bin\Debug\netcoreapp3.1\FrigoriferiSmart.runtimeconfig.json
+C:\Users\Standard\Desktop\FrigoriferiSmart\FrigoriferiSmart\bin\Debug\netcoreapp3.1\FrigoriferiSmart.runtimeconfig.dev.json
+C:\Users\Standard\Desktop\FrigoriferiSmart\FrigoriferiSmart\bin\Debug\netcoreapp3.1\FrigoriferiSmart.dll
+C:\Users\Standard\Desktop\FrigoriferiSmart\FrigoriferiSmart\bin\Debug\netcoreapp3.1\FrigoriferiSmart.pdb
+C:\Users\Standard\Desktop\FrigoriferiSmart\FrigoriferiSmart\obj\Debug\netcoreapp3.1\FrigoriferiSmart.csprojAssemblyReference.cache
+C:\Users\Standard\Desktop\FrigoriferiSmart\FrigoriferiSmart\obj\Debug\netcoreapp3.1\FrigoriferiSmart.AssemblyInfoInputs.cache
+C:\Users\Standard\Desktop\FrigoriferiSmart\FrigoriferiSmart\obj\Debug\netcoreapp3.1\FrigoriferiSmart.AssemblyInfo.cs
+C:\Users\Standard\Desktop\FrigoriferiSmart\FrigoriferiSmart\obj\Debug\netcoreapp3.1\FrigoriferiSmart.csproj.CoreCompileInputs.cache
+C:\Users\Standard\Desktop\FrigoriferiSmart\FrigoriferiSmart\obj\Debug\netcoreapp3.1\FrigoriferiSmart.dll
+C:\Users\Standard\Desktop\FrigoriferiSmart\FrigoriferiSmart\obj\Debug\netcoreapp3.1\FrigoriferiSmart.pdb
+C:\Users\Standard\Desktop\FrigoriferiSmart\FrigoriferiSmart\obj\Debug\netcoreapp3.1\FrigoriferiSmart.genruntimeconfig.cache
